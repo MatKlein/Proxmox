@@ -18,7 +18,7 @@ EOF
 }
 header_info
 echo -e "Loading..."
-APP="Alpine-Nextcloud"
+APP="Nextcloud"
 var_disk="2"
 var_cpu="2"
 var_ram="1024"
